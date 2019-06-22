@@ -1,0 +1,11 @@
+# Exclude files and directories
+.idea/
+.vscode/
+
+src/__pycache__/
+
+datasets/mnist/data/
+datasets/cifar10/data
+
+*.hdf5
+*.npy
